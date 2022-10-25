@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\ALGORITHMS\panidromClang\Project11\Project11\Source.cpp(15,24): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+D:\ALGORITHMS\panidromClang\Project11\Project11\Source.cpp(16,47): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+D:\ALGORITHMS\panidromClang\Project11\Project11\Source.cpp(19,22): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\ALGORITHMS\panidromClang\Project11\Project11\Source.cpp(19,35): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\ALGORITHMS\panidromClang\Project11\Project11\Source.cpp(19,75): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  Project11.vcxproj -> D:\ALGORITHMS\panidromClang\Project11\Debug\Project11.exe
